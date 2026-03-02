@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "接吻（M.D.L. Version）",
+  "base_artist": "Original Love & Ovall",
+  "createdAt": "2026-03-02T07:20:23.576140Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "接吻",
+      "artist": "Original Love & Ovall",
+      "has_synced": false,
+      "path": "select/pl_01_接吻_Original_Love_&_Ovall.txt"
+    }
+  ]
+}
